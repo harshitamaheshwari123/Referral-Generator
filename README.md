@@ -105,5 +105,3 @@ This project can be deployed on:
 [GitHub Profile](https://github.com/harshitamaheshwari123)
 
 ---
-
-Let me know if you’d like to add **screenshots**, **GIFs**, or **deployment status badges**!
